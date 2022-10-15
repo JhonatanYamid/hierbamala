@@ -1,5 +1,5 @@
 {
-  "name": "CARTA",
+  "name": "carta",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -15,6 +15,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JhonatanYamid/hierbamala/issues"
-  },
-  "homepage": "https://github.com/JhonatanYamid/hierbamala#readme"
+  }
 }
